@@ -3,9 +3,7 @@ from fastapi.background import BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 from redis_om import get_redis_connection, HashModel
 from starlette.requests import Request
-import datetime, requests, json, random, time
-
-
+import requests, random, time
 
 
 app = FastAPI()
