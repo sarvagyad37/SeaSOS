@@ -23,7 +23,7 @@ See a video demo here: [Youtube Link](https://youtu.be/1NXLcIWZ2hU?si=X74cDPyYJ6
 
 ## Getting Started
 The FastAPI backend code can be found in the fastapi branch:
-[FastAPI](https://github.com/sarvagyad37/SeaSOS/tree/fastapi)
+[FastAPI](https://github.com/sarvagyad37/SeaSOS/tree/fastAPI)
 
 ### Usage
 More instructions coming soon!
